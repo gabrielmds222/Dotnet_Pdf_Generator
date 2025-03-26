@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="DS.Documents.Pdf" Version="8.0.5" />
     <PackageReference Include="QuestPDF" Version="2025.1.7" />
   </ItemGroup>
 
